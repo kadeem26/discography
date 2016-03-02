@@ -1,0 +1,39 @@
+.image {
+  background-color: grey;
+  padding-top: 20px;
+
+}
+body{
+  background-color:black;
+}
+h1{
+ color: pink;
+  font-size:60px;
+}
+p{
+  font-size: 25px;
+  color: grey;
+}
+title{
+  color: grey;
+}
+h2{
+  font-size: 50px;
+  color: pink;
+}
+
+h3{
+  font-style: italic;
+  color: pink;
+  font-size: 20;
+}
+
+.home_page{
+  display: block;
+  margin: 0 auto;
+}
+.image img {
+  margin-right: 70px;
+  margin-left: 125px;
+  margin-top: 0 auto;
+}
