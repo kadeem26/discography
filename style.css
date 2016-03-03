@@ -1,5 +1,5 @@
 body {
-  background-color:pink;
+  background-color:black;
 }
 
 .pr{
@@ -12,6 +12,7 @@ body {
 h1{
   font-size: 100px;
   font-style: oblique;
+   color: #5CC8DB;
 }
 .money{
   margin-bottom: 300px;
@@ -19,6 +20,8 @@ h1{
 h2{
   text-align: right;
   font-size: 35;
+  margin-right: 150px;
+  color: #5CC8DB;
 }
 .drake{
   margin-left:2075px;
@@ -26,10 +29,15 @@ h2{
 h3{
   font-size: 35px;
   text-align: right;
+  margin-right: 60px;
+  color: #5CC8DB;
 }
 h4{
   font-size: 30px;
+  color: #5CC8DB;
 }
 ol{
   font-size: 25px;
+  font-style: italic;
+color: #5CC8DB;
 }
