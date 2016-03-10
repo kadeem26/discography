@@ -9,6 +9,7 @@ body{
 h1{
  color: pink;
   font-size:60px;
+  
 }
 p{
   font-size: 25px;
@@ -36,4 +37,14 @@ h3{
   margin-right: 70px;
   margin-left: 125px;
   margin-top: 0 auto;
+}
+ol{
+color: #5CC8DB;
+font-size: 30px;
+margin-left: 600px;
+margin-top: 200px;
+line-height: 2em;
+}
+.hard{
+  margin-left: 600px;
 }

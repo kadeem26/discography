@@ -11,17 +11,17 @@ body {
 }
 h1{
   font-size: 100px;
-  font-style: oblique;
-   color: #5CC8DB;
+   color: pink;
+   margin-left: 1000px;
+   margin-right: 200px;
 }
 .money{
   margin-bottom: 300px;
 }
 h2{
-  text-align: right;
   font-size: 35;
   margin-right: 150px;
-  color: #5CC8DB;
+  color:pink;
 }
 .drake{
   margin-left:2075px;
@@ -37,7 +37,20 @@ h4{
   color: #5CC8DB;
 }
 ol{
-  font-size: 25px;
+  font-size: 30px;
   font-style: italic;
 color: #5CC8DB;
+margin-left: 1150px;
+margin-top: 200px;
+line-height: 2em;
+}
+.lion{
+margin-left: 1100px;
+}
+P{
+  color: pink;
+  font-size: 40px;
+  font-style: italic;
+  margin-left: 1000px;
+  margin-top: 300px;
 }
